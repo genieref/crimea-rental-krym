@@ -1,0 +1,5 @@
+{
+  "regions": ["iad1"],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
