@@ -1,0 +1,62 @@
+{
+  "common": {
+    "brand": "CrimeaRent",
+    "tagline": "Vacation rentals in Crimea for summer 2026",
+    "reservation": "Book",
+    "chooseHousing": "Choose housing",
+    "sendRequest": "Send booking request",
+    "allRightsReserved": "All rights reserved",
+    "requestSent": "Request sent",
+    "requestSentText": "We will contact you within 15 minutes",
+    "required": "Required field",
+    "nameLabel": "Name",
+    "phoneLabel": "Phone",
+    "checkInLabel": "Check-in",
+    "checkOutLabel": "Check-out",
+    "housingLabel": "Choose housing",
+    "guestsLabel": "Guests",
+    "commentLabel": "Comment",
+    "selectPlaceholder": "— Select —",
+    "namePlaceholder": "John",
+    "phonePlaceholder": "+1 (___) ___-__-__",
+    "datePlaceholder": "DD.MM.YYYY",
+    "commentPlaceholder": "Special wishes, questions...",
+    "chooseDate": "Choose date"
+  },
+  "home": {
+    "headline": "Summer 2026 in Crimea",
+    "subheadline": "Cozy homes by the sea — days, weeks, the whole summer. Houses, apartments, villas with embankment views.",
+    "catalogTitle": "Housing catalog",
+    "catalogSubtitle": "Options for family trips, romantic getaways, and big groups",
+    "advantagesTitle": "Why us",
+    "advantagesSubtitle": "We make your Crimea vacation comfortable and safe",
+    "bookingTitle": "Book housing",
+    "bookingSubtitle": "Fill in the form and we will contact you within 15 minutes",
+    "contactsTitle": "Contacts",
+    "contactsSubtitle": "Reach us in any convenient way",
+    "guestsOption": "1 guest",
+    "guestsOptions": ["1 guest", "2 guests", "3 guests", "4 guests", "5+ guests"]
+  },
+  "advantages": {
+    "verified": "Verified properties",
+    "verifiedText": "We inspect each property personally and publish only real listings.",
+    "payment": "Safe payment",
+    "paymentText": "Secure prepayment with protection and refund within 7 days.",
+    "support": "Support 24/7",
+    "supportText": "Help with check-in, recommendations, and quick replies anytime.",
+    "dates": "Flexible dates",
+    "datesText": "Rentals from 3 days to the whole season with discounts for long stays."
+  },
+  "contacts": {
+    "phone": "+1 (978) 123-45-67",
+    "email": "info@crimea-rental.com",
+    "hours": "Daily 9:00–22:00 MSK"
+  },
+  "cities": ["Yalta", "Sevastopol", "Kerch", "Feodosia", "Sudak"],
+  "services": [
+    "Long-term rental",
+    "Airport transfer",
+    "Excursions",
+    "Catering"
+  ]
+}
