@@ -12,3 +12,6 @@ build
 *.log
 coverage
 storybook-static
+
+.vercel
+.env*
