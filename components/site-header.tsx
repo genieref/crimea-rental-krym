@@ -2,7 +2,6 @@
 
 import { useState } from 'react'
 import { Menu, Waves, X } from 'lucide-react'
-import { Button } from '@/components/ui/button'
 import { useLanguage } from '@/components/language-provider'
 
 export function SiteHeader() {
@@ -48,7 +47,6 @@ export function SiteHeader() {
           >
             {lang === 'ru' ? 'EN' : 'RU'}
           </button>
-          <Button className="hidden md:inline-flex">{t.nav.listProperty}</Button>
           <button
             className="md:hidden"
             aria-label="Toggle menu"
@@ -72,7 +70,6 @@ export function SiteHeader() {
                 {link.label}
               </a>
             ))}
-            <Button className="w-full">{t.nav.listProperty}</Button>
           </div>
         </nav>
       )}
