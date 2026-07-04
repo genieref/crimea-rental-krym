@@ -1,17 +1,15 @@
-.git
-node_modules
-.next
-out
-dist
-build
-.DS_Store
-*.local
-.env
-.env.*
-!.env.example
-*.log
-coverage
-storybook-static
+# v0 sandbox internal files
+__v0_runtime_loader.js
+__v0_devtools.tsx
+__v0_jsx-dev-runtime.ts
+.snowflake/
+.v0-trash/
+.vercel/
 
-.vercel
-.env*
+# Environment variables
+.env*.local
+
+# Common ignores
+node_modules
+.next/
+.DS_Store
