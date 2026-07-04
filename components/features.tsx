@@ -1,7 +1,6 @@
 'use client'
 
 import { BadgeCheck, HeadphonesIcon, ShieldCheck } from 'lucide-react'
-import { Button } from '@/components/ui/button'
 import { useLanguage } from '@/components/language-provider'
 
 const icons = [BadgeCheck, ShieldCheck, HeadphonesIcon]
@@ -40,9 +39,6 @@ export function Features() {
         <p className="mx-auto mt-3 max-w-md text-pretty text-primary-foreground/80">
           {t.cta.subtitle}
         </p>
-        <Button size="lg" variant="secondary" className="mt-8">
-          {t.cta.button}
-        </Button>
       </div>
     </section>
   )
