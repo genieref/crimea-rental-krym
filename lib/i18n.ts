@@ -62,7 +62,7 @@ export const dictionary = {
       ],
     },
     cta: {
-      title: 'У вас есть жильё в Крыму?',
+      title: 'Контакты',
       subtitle: 'Разместите объявление и начните принимать',
       button: 'Стать хозяином',
     },
@@ -139,7 +139,7 @@ export const dictionary = {
       ],
     },
     cta: {
-      title: 'Own a place in Crimea?',
+      title: 'Contact us',
       subtitle: 'List your property and start welcoming guests today.',
       button: 'Become a host',
     },
